@@ -30,7 +30,6 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 * The winner of the election was:
   * Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 
-
 ## Challenge Overview
 The election commission has requested some additional data to complete the audit:
 1. The voter turnout for each county
@@ -39,14 +38,28 @@ The election commission has requested some additional data to complete the audit
 
 ## Challenge Summary
 
+>Election Results
+
+![Poll Results Output](resources/PyPoll_Challenge_output.png)
+
+* The counties voting were:
+ * Jefferson
+ * Denver
+ * Arapahoe
+* The county results were:
+  * Jefferson has 10.5% of voters, for a total voter turnout of 38,855.
+  * Denver has 82.8% of voters, for a total voter turnout of 306,055.
+  * Arapahoe has 6.7% of voters, for a total voter turnout of 24,801.
+  * The county with the highest turnout was:
+    * Denver
+
+## Election-Audit Summary
+
 **Election Results Output**
 
 >Old Runtime for 2018
 
 ![Poll Results Output](resources/PyPoll_Challenge_output.png)
-
-## Election-Audit Summary
-
 
 
 
