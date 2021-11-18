@@ -50,8 +50,8 @@ The election commission has requested some additional data to complete the audit
   * Jefferson has 10.5% of voters, for a total voter turnout of 38,855.
   * Denver has 82.8% of voters, for a total voter turnout of 306,055.
   * Arapahoe has 6.7% of voters, for a total voter turnout of 24,801.
-  * The county with the highest turnout was:
-    * Denver
+* The county with the highest turnout was:
+  * Denver
 
 ## Election-Audit Summary
 
