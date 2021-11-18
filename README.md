@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Background
 ## Overview of Project
@@ -19,7 +19,7 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 
 ------------------
 ### Purpose
-see  [Background 0--> Overview of Project](#background).
+see  [Background --> Overview of Project](#background).
 
 ## Methodology: Analytics Paradigm
 
@@ -39,7 +39,7 @@ Use election_results.csv in Python with ```import csv``` and ```file_to_load = o
 Python scripting
 
 #### 6. Analyse for Trends
-8 questions asked above in [Background 0--> Overview of Project](#background).
+8 questions asked above in [Background --> Overview of Project](#background).
 
 #### 7. Acknowledging Limitations
 * Limitation of personal knowledge in Python programming
@@ -48,11 +48,11 @@ Python scripting
 #### 8. Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
 
-------------------
 ## Analysis
+See in [Summary](#summary).
 
-
-### Results Analysis
+## Results
+------------------
 
 **2018 timer**
 
@@ -75,27 +75,6 @@ With the new code, our runtime is 0.238 seconds compared to 4.96 seconds.
 >New Runtime for 2017
 
 ![New Runtime for 2017](resources/VBA_Challenge_2017.png)
-
-With the new code, our runtime is 0.261 seconds compared to 5.3 seconds.
-
-We can conclude above that the speed increase for the data are:
-
-**2018-** 20.8 times faster
-
-**2017-** 20.3 times faster
-
-### Code Efficiency Analysis
-
-1. **Storing results in an array & reducing iterations**
-
-In the old code, we have nested for loops code structure:
-
-
-2. **Changing the initial code base from**
-
-For the full code, see [Appendix](#appendix).
-
-## Results
 
 From [Analysis](#analysis)
 
