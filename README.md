@@ -45,33 +45,24 @@ The election commission has requested some additional data to complete the audit
 
 ![Old Runtime for 2018](resources/2018_timer.png)
 
->New Runtime for 2018
-
-![New Runtime for 2018](resources/VBA_Challenge_2018.png)
+## Election-Audit Summary
 
 
-**2017 timer**
-
->Old Runtime for 2017
-
-![Old Runtime for 2017](resources/2017_timer.png)
-
->New Runtime for 2017
-
-![New Runtime for 2017](resources/VBA_Challenge_2017.png)
 
 
+
+------------------
 
 ## Appendix
 The following is writing method following the Analytics Paradigm
-------------------
+
 ### Purpose
-see  [Background --> Overview of Project](#background).
+see  [Background --> Overview of Project](#background) and [Challenge Summary](#challenge-summary)
 
 ## Methodology: Analytics Paradigm
 
 #### 1. Decomposing the Ask
-Using election results dataset to determine the 8 questions asked above in [Background --> Overview of Project](#background).
+Using election results dataset to determine the 8 questions asked above in [Background --> Overview of Project](#background) and the 3 questions in and [Challenge Summary](#challenge-summary)
 
 #### 2. Identify the Datasource
 election_results.csv
@@ -86,7 +77,8 @@ Use election_results.csv in Python with ```import csv``` and ```file_to_load = o
 Python scripting
 
 #### 6. Analyse for Trends
-8 questions asked above in [Background --> Overview of Project](#background).
+* 8 questions asked above in [Background --> Overview of Project](#background)
+* 3 questions in and [Challenge Summary](#challenge-summary)
 
 #### 7. Acknowledging Limitations
 * Limitation of personal knowledge in Python programming
