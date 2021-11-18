@@ -32,6 +32,11 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 
 ## Challenge Overview
 
+Include for these:
+1. Calculate the voter turnout for each county.
+1. Calculate the percentage of votes from each county out of the total.
+1. Determine the county with the highest turnout.
+
 ## Challenge Summary
 
 >Election Results
@@ -49,9 +54,9 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 * The county with the highest turnout was:
   * Denver
 
-## Election-Audit Summary
+### Election-Audit Summary
 
-
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 **NOTE**: The results are saved in ```election_analysis.txt``` and not ```election_results.txt```.
 
