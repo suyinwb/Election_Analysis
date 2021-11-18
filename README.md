@@ -99,6 +99,7 @@ The "Proper" Conclusion is indicated below on [Results](#results)
 See in [Summary](#summary).
 
 ## Results
+
 See in [Challenge Summary](#challenge-summary).
 ------------------
 ```
