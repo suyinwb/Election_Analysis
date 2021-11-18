@@ -64,14 +64,14 @@ This script can be expanded to be used for different voting results:
 * modified for _**precinct-level**_
 * expanded for _**district-level, state-level**_ and to even compute for _**presidential election**_ results.
 
-As as the dataset is from voting stations and consists of ballot ID, voter location, candidate voted; we can easily compute for all the different election levels as stated above as the data collected are the same.
+As the dataset is from voting stations and consists of ballot ID, voter location, candidate voted; we can easily compute for all the different election levels as the data collected are the same.
 
 We can even create a more _**granular view**_ of the voting results by adding more conditions to find each candidate's highest voters county. By expanding ```candidate_votes``` to include ```county_name```, we will be able to count for candidate and their votes according to county.
 This means we will know _**which county has the highest voters for each candidate**_.
 
-When we use this script to _**analyse past year's election performance**_, we will be able to view _**historical voting sentiments**_ by knowing which county has _**higher voters turnout**_ and _**whom they voted**_ for. If we explore enough past years' dataset, we can most probably be able to see which party (candidate belongs to) has higher voters, where the voters are from and are they likely to vote (example, in this case, Denver has a very high voters turnout).
+When we use this script to _**analyse past years' elections performance**_, we will be able to view _**historical voting sentiments**_ by knowing which county has _**higher voters turnout**_ and _**whom they voted**_ for. If we explore enough past years' dataset, we can most probably be able to see which party (candidate belongs to) has higher voters, where the voters are from and are they likely to vote (example, in this case, Denver has a very high voters turnout).
 
-This can then determine the candidate's _**election rally**_ and _**spending decisions**_ to ensure the _**highest success rate of winning**_ the election.
+This can then determine the candidate's _**election rally**_ and _**spending decisions**_ locations to ensure the _**highest success rate of winning**_ the election.
 
 This script can also be used for any countries and their different election levels to quickly get their election results.
 
