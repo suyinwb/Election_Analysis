@@ -86,7 +86,7 @@ with open(file_to_save, "w") as txt_file:
         #print(f"{candidate_name}: received {vote_percentage: .1f}% of the vote.")
 
     #  To do: print out each candidate's name, vote count, and percentage of
-    # votes to the terminal.
+    # votes to the terminal
         #print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
         candidate_results = (f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
         # Print each candidate, their voter count, and percentage to the terminal.
