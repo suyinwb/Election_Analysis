@@ -43,7 +43,7 @@ The election commission has requested some additional data to complete the audit
 
 >Old Runtime for 2018
 
-![Poll Results Output](rresources/PyPoll_Challenge_output.png)
+![Poll Results Output](resources/PyPoll_Challenge_output.png)
 
 ## Election-Audit Summary
 
