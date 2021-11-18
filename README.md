@@ -33,8 +33,11 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 ## Challenge Overview
 
 Include for these:
+
 6. Calculate the voter turnout for each county.
+
 7. Calculate the percentage of votes from each county out of the total.
+
 8. Determine the county with the highest turnout.
 
 ## Challenge Summary
