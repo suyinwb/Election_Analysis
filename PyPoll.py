@@ -28,6 +28,9 @@ total_votes = 0
 # Candidate Options
 candidate_options = []
 
+# 1. Declare the empty dictionary.
+candidate_votes = {}
+
 # Open the election results and read the file.
 #election_data = open(file_to_load, 'r')
 with open(file_to_load) as election_data:
@@ -41,7 +44,7 @@ with open(file_to_load) as election_data:
 
 # Print each row in the CSV file.
     for row in file_reader:
-        print(row)
+        #print(row)
         # 2. Add to the total vote count.
         total_votes += 1
 
@@ -52,9 +55,15 @@ with open(file_to_load) as election_data:
         if candidate_name not in candidate_options:
             # Add it to the list of candidates.
             candidate_options.append(candidate_name)
+           # 2. Begin tracking that candidate's vote count.
+            candidate_votes[candidate_name] = 0
+
+        # Add a vote to that candidate's count.
+        candidate_votes[candidate_name] += 1
 
 # Print the candidate list.
-print(candidate_options)
+#print(candidate_options)
+print(candidate_votes)
 
 # 3. Print the total votes.
 print(total_votes)
