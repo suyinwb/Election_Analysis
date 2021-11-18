@@ -15,6 +15,7 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 
 ### Resources
 Data Source: election_results.csv
+
 Software: Python 3.9.1, Atom 1.58.0 x 64
 
 ## Summary
