@@ -51,9 +51,7 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 
 ## Election-Audit Summary
 
->Election Results
 
-![Poll Results Output](resources/PyPoll_Challenge_output.png)
 
 **NOTE**: The results are saved in ```election_analysis.txt``` and not ```election_results.txt```.
 
