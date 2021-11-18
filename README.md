@@ -31,10 +31,6 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
   * Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 
 ## Challenge Overview
-The election commission has requested some additional data to complete the audit:
-1. The voter turnout for each county
-1. The percentage of votes from each county out of the total count
-1. The county with the highest turnout
 
 ## Challenge Summary
 
@@ -55,27 +51,24 @@ The election commission has requested some additional data to complete the audit
 
 ## Election-Audit Summary
 
-**Election Results Output**
-
->Old Runtime for 2018
+>Election Results
 
 ![Poll Results Output](resources/PyPoll_Challenge_output.png)
 
 
 
-
+**NOTE**: The results are saved in ```election_analysis.txt``` and not ```election_results.txt```.
 ------------------
 
 ## Appendix
 The following is writing method using the Analytics Paradigm
 
 ### Purpose
-see  [Background --> Overview of Project](#background) and [Challenge Summary](#challenge-summary)
-
+see  [Background --> Overview of Project](#background)
 ## Methodology: Analytics Paradigm
 
 #### 1. Decomposing the Ask
-Using election results dataset to determine the 8 questions asked above in [Background --> Overview of Project](#background) and the 3 questions in and [Challenge Summary](#challenge-summary)
+Using election results dataset to determine the 8 questions asked above in [Background --> Overview of Project](#background)
 
 #### 2. Identify the Datasource
 election_results.csv
@@ -90,8 +83,7 @@ Use election_results.csv in Python with ```import csv``` and ```file_to_load = o
 Python scripting
 
 #### 6. Analyse for Trends
-* 8 questions asked above in [Background --> Overview of Project](#background)
-* 3 questions in and [Challenge Summary](#challenge-summary)
+8 questions asked above in [Background --> Overview of Project](#background)
 
 #### 7. Acknowledging Limitations
 * Limitation of personal knowledge in Python programming
@@ -107,6 +99,3 @@ See in [Summary](#summary).
 See in [Challenge Summary](#challenge-summary).
 
 ------------------
-```
-
-```
