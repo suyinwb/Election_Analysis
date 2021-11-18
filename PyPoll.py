@@ -15,6 +15,7 @@ import os
 now = dt.datetime.now()
 # Print the present time.
 print("The time right now is ", now)
+print("\n")
 
 # Assign a variable for the file to load and the path.
 #file_to_load = 'resources/election_results.csv'
