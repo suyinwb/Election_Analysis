@@ -17,6 +17,41 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 Data Source: election_results.csv
 Software: Python 3.9.1, Atom 1.58.0 x 64
 
+
+
+**2018 timer**
+
+>Old Runtime for 2018
+
+![Old Runtime for 2018](resources/2018_timer.png)
+
+>New Runtime for 2018
+
+![New Runtime for 2018](resources/VBA_Challenge_2018.png)
+
+With the new code, our runtime is 0.238 seconds compared to 4.96 seconds.
+
+**2017 timer**
+
+>Old Runtime for 2017
+
+![Old Runtime for 2017](resources/2017_timer.png)
+
+>New Runtime for 2017
+
+![New Runtime for 2017](resources/VBA_Challenge_2017.png)
+
+From [Analysis](#analysis)
+
+## Summary
+
+## Challenge Overview
+
+## Challenge Summary
+
+## Appendix
+
+-*The following is writing method following the Analytics Paradigm*-
 ------------------
 ### Purpose
 see  [Background --> Overview of Project](#background).
@@ -52,36 +87,8 @@ The "Proper" Conclusion is indicated below on [Results](#results)
 See in [Summary](#summary).
 
 ## Results
+See in [Challenge Summary](#challenge_summary).
 ------------------
-
-**2018 timer**
-
->Old Runtime for 2018
-
-![Old Runtime for 2018](resources/2018_timer.png)
-
->New Runtime for 2018
-
-![New Runtime for 2018](resources/VBA_Challenge_2018.png)
-
-With the new code, our runtime is 0.238 seconds compared to 4.96 seconds.
-
-**2017 timer**
-
->Old Runtime for 2017
-
-![Old Runtime for 2017](resources/2017_timer.png)
-
->New Runtime for 2017
-
-![New Runtime for 2017](resources/VBA_Challenge_2017.png)
-
-From [Analysis](#analysis)
-
-## Summary
-
-
-## Appendix
 ```
 
 ```
