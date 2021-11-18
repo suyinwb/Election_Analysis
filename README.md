@@ -1,9 +1,7 @@
 # Election_Analysis
 
-# Stock Analysis
-
 ## Background
-
+Seth and Tom have looked over your election audit and are pleased with what you have accomplished. Now, Seth needs you to save your election audit results to a text file so he can send it to the election commission. Don't worry if you don't remember how to write data to file—Tom is going to walk you through the process to refresh your memory.
 
 ## Overview of Project
 
