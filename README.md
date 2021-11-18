@@ -39,11 +39,11 @@ The election commission has requested some additional data to complete the audit
 
 ## Challenge Summary
 
-**2018 timer**
+**Election Results Output**
 
 >Old Runtime for 2018
 
-![Old Runtime for 2018](resources/2018_timer.png)
+![Poll Results Output](rresources/PyPoll_Challenge_output.png)
 
 ## Election-Audit Summary
 
