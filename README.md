@@ -59,6 +59,20 @@ Include for these:
 
 ### Election-Audit Summary
 
+This script can be expanded to be used for voting results in:
+* use as is for other counties besides Colorado
+* modified for precinct-level
+* expanded for district-level, state-level and to even compute for presidental election results.
+
+As as the dataset is from voting stations and consists of ballot ID, voter location, candidate voted; we can easily compute for all the different election levels as stated above as the data collected are the same.
+
+We can even create a more granular view of the voting results by adding more conditions to find each candidate's highest voters county.
+This means we will know where is the highest votes from for each candidate.
+
+When we use this script to analyse past year's election performance, we will be able to view historical voting sentiments by knowing which county has higher voters turnout and whom they voted for. If we explore enough past years' dataset, we can most probably be able to see which party (candidate belongs to) has higher voters, where the voters are from and are they likely to vote (example, in this case, Denver has a very high voters turnout).
+
+This can then determine the candidate's election rally and spending decisions to ensure the highest success rate of winning the election. 
+
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
 **NOTE**: The results are saved in ```election_analysis.txt``` and not ```election_results.txt```.
