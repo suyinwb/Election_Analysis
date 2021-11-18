@@ -17,7 +17,23 @@ A Colorado Board of Elections employee assigned the following tasks to complete 
 Data Source: election_results.csv
 Software: Python 3.9.1, Atom 1.58.0 x 64
 
+## Summary
+* The analysis of the election shows that:
+  * There were 369,711 votes cast in the election
+* The candidates were:
+  * Charles Casper Stockham
+* Diana DeGette
+* Raymon Anthony Doane
+* The candidate results were:
+* Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
+* Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
+* The winner of the election was:
+* Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 
+
+## Challenge Overview
+
+## Challenge Summary
 
 **2018 timer**
 
@@ -29,7 +45,6 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 
 ![New Runtime for 2018](resources/VBA_Challenge_2018.png)
 
-With the new code, our runtime is 0.238 seconds compared to 4.96 seconds.
 
 **2017 timer**
 
@@ -41,17 +56,10 @@ With the new code, our runtime is 0.238 seconds compared to 4.96 seconds.
 
 ![New Runtime for 2017](resources/VBA_Challenge_2017.png)
 
-From [Analysis](#analysis)
 
-## Summary
-
-## Challenge Overview
-
-## Challenge Summary
 
 ## Appendix
-
--*The following is writing method following the Analytics Paradigm*-
+The following is writing method following the Analytics Paradigm
 ------------------
 ### Purpose
 see  [Background --> Overview of Project](#background).
@@ -59,7 +67,7 @@ see  [Background --> Overview of Project](#background).
 ## Methodology: Analytics Paradigm
 
 #### 1. Decomposing the Ask
-Using election results dataset to determine the 8 questions asked above in [Background 0--> Overview of Project](#background).
+Using election results dataset to determine the 8 questions asked above in [Background --> Overview of Project](#background).
 
 #### 2. Identify the Datasource
 election_results.csv
