@@ -32,6 +32,10 @@ Software: Python 3.9.1, Atom 1.58.0 x 64
 
 
 ## Challenge Overview
+The election commission has requested some additional data to complete the audit:
+1. The voter turnout for each county
+1. The percentage of votes from each county out of the total count
+1. The county with the highest turnout
 
 ## Challenge Summary
 
