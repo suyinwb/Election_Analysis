@@ -54,7 +54,7 @@ The election commission has requested some additional data to complete the audit
 ------------------
 
 ## Appendix
-The following is writing method following the Analytics Paradigm
+The following is writing method using the Analytics Paradigm
 
 ### Purpose
 see  [Background --> Overview of Project](#background) and [Challenge Summary](#challenge-summary)
