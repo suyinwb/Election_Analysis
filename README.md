@@ -66,8 +66,8 @@ This script can be expanded to be used for voting results in:
 
 As as the dataset is from voting stations and consists of ballot ID, voter location, candidate voted; we can easily compute for all the different election levels as stated above as the data collected are the same.
 
-We can even create a more granular view of the voting results by adding more conditions to find each candidate's highest voters county.
-This means we will know where is the highest votes from for each candidate.
+We can even create a more granular view of the voting results by adding more conditions to find each candidate's highest voters county. By expanding ```candidate_votes``` to include ```county_name```, we will be able to count for candidate and their votes according to county.
+This means we will know which gives highest votes for each candidate.
 
 When we use this script to analyse past year's election performance, we will be able to view historical voting sentiments by knowing which county has higher voters turnout and whom they voted for. If we explore enough past years' dataset, we can most probably be able to see which party (candidate belongs to) has higher voters, where the voters are from and are they likely to vote (example, in this case, Denver has a very high voters turnout).
 
