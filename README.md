@@ -1,46 +1,56 @@
 # Election_Analysis
 
 ## Background
-Seth and Tom have looked over your election audit and are pleased with what you have accomplished. Now, Seth needs you to save your election audit results to a text file so he can send it to the election commission. Don't worry if you don't remember how to write data to file—Tom is going to walk you through the process to refresh your memory.
-
 ## Overview of Project
+A Colorado Board of Elections employee assigned the following tasks to complete the election audit of a recent local congressional election.
 
+1. Calculate the total number of votes cast.
+1. Get a complete list of candidates who received votes.
+1. Calculate the total number of votes for each candidate received.
+1. Calculate the percentage of votes each candidate won.
+1. Determine the winner of the election based on popular vote.
+1. Calculate the voter turnout for each county.
+1. Calculate the percentage of votes from each county out of the total.
+1. Determine the county with the highest turnout.
 
+### Resources
+Data Source: election_results.csv
+Software: Python 3.9.1, Atom 1.58.0 x 64
 
+------------------
 ### Purpose
-
-
-## Analysis And Challenges
+see  [Background 0--> Overview of Project](#background).
 
 ## Methodology: Analytics Paradigm
 
 #### 1. Decomposing the Ask
-To get the codes working faster and more elegantly with less traversal of the dataset.
+Using election results dataset to determine the 8 questions asked above in [Background 0--> Overview of Project](#background).
 
 #### 2. Identify the Datasource
-Same dataset is used.
+election_results.csv
 
 #### 3. Define Strategy & Metrics
-Look at the current code and visualise the calls and routines to refine and reduce data calls.
-Store data into arrays.
+Using Python to read, compute and format output of the requirements into a txt file.
 
 #### 4. Data Retrieval Plan
-Use stock analysis dataset in Excel
+Use election_results.csv in Python with ```import csv``` and ```file_to_load = os.path.join("resources", "election_results.csv")```
 
 #### 5. Assemble & Clean the Data
-Excel VBA scripting
+Python scripting
 
 #### 6. Analyse for Trends
-Compare timer from old codes with new codes
+8 questions asked above in [Background 0--> Overview of Project](#background).
 
 #### 7. Acknowledging Limitations
-* Unable test out the new codes with a much larger dataset for a dry-run.
-* Using VBA, the scripts will run in real-time.
+* Limitation of personal knowledge in Python programming
+* Using Python, the scripts will run in real-time.
 
 #### 8. Making the Call:
 The "Proper" Conclusion is indicated below on [Results](#results)
 
+------------------
 ## Analysis
+
 
 ### Results Analysis
 
@@ -90,8 +100,6 @@ For the full code, see [Appendix](#appendix).
 From [Analysis](#analysis)
 
 ## Summary
-
-### Refactoring Code
 
 
 ## Appendix
